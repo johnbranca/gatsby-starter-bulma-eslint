@@ -4,14 +4,16 @@
   "version": "1.0.0",
   "author": "John Branca <jbranca@praiamedia.com>",
   "dependencies": {
-    "gatsby": "^2.0.36",
+    "gatsby": "^2.0.37",
     "gatsby-image": "^2.0.15",
     "gatsby-plugin-manifest": "^2.0.5",
     "gatsby-plugin-offline": "^2.0.5",
     "gatsby-plugin-react-helmet": "^3.0.0",
+    "gatsby-plugin-sass": "^2.0.3",
     "gatsby-plugin-sharp": "^2.0.7",
     "gatsby-source-filesystem": "^2.0.4",
     "gatsby-transformer-sharp": "^2.1.4",
+    "node-sass": "^4.9.4",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
     "react-helmet": "^5.2.0"
@@ -29,6 +31,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
+    "bulma": "^0.7.2",
     "eslint": "^5.8.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.2",
