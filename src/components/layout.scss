@@ -1,10 +1,12 @@
-// https://bulma.io/documentation/customize/with-node-sass/
-// @charset "utf-8";
-
 @charset "utf-8";
 
-// // All Bulma
+// Option 1
+// Import all of Bulma's sass.
 // @import '../../node_modules/bulma/bulma.sass';
+
+// Option 2
+// Customize and Import only what you need from Bulma.
+// See https://bulma.io/documentation/customize/with-node-sass/
 
 // Import a Google Font
 @import url('https://fonts.googleapis.com/css?family=Nunito:400,700');

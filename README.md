@@ -1,12 +1,12 @@
 <h1 align="center">
-  Gatsby Starter with Bulma and Eslint
+  Gatsby Starter with Bulma and ESLint
 </h1>
 
 A barebones Gatsby starter which include Bulma and ESLint.
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
-## 🚀 Quick start
+## Quick start
 
 1.  **Create a Gatsby site.**
 
@@ -34,7 +34,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
-## 🧐 What's inside?
+## What's inside?
 
 - Bulma
 - Node sass
@@ -57,6 +57,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 * **Customizing Bulma with node-sass [Step #6 is a good example of adding your own styles](https://bulma.io/documentation/customize/with-node-sass/).** Instead of creating mystyles.scss you can edit layout.scss in components folder.
 
-## 💫 Deploy
+## Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/johnbranca/gatsby-starter-bulma-eslint)

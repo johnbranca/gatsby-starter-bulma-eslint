@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Gatsby Starter Bulma ESLint',
   },
   plugins: [
     'gatsby-plugin-sass',
