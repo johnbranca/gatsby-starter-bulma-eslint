@@ -22,6 +22,7 @@ Use the Gatsby CLI to create a new site, specifying this starter.
 ````sh
 # create new Gatsby site
 gatsby new <my-site-name> https://github.com/johnbranca/gatsby-starter-bulma-eslint
+```
 
 ## Develop
 
