@@ -19,7 +19,7 @@ npm install --global gatsby-cli
 
 Use the Gatsby CLI to create a new site, specifying this starter.
 
-````sh
+```sh
 # create new Gatsby site
 gatsby new <my-site-name> https://github.com/johnbranca/gatsby-starter-bulma-eslint
 ```
@@ -34,7 +34,7 @@ Navigate into your new site’s directory and start it up.
 # change directory to my new site and run Gatsby develop command.
 cd my-site-name/
 gatsby develop
-````
+```
 
 **Open the favorite code editor and start editing!**
 
