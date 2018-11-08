@@ -4,11 +4,16 @@
 
 A barebones Gatsby starter which include Bulma and ESLint.
 
+## Includes
+
+- Bulma
+- Node sass
+- ESLint
+  - Ally
+
 ## Install
 
 **Install Gatsby's command line tool (if not already installed)**
-
-Use the Gatsby CLI to create a new site, specifying the default starter.
 
 ```sh
 # install Gatsby CLI
@@ -28,7 +33,7 @@ gatsby new <my-site-name> https://github.com/johnbranca/gatsby-starter-bulma-esl
 
 **Start developing.**
 
-Navigate into your new site’s directory and start it up.
+Navigate into your new site’s directory and start it Gatsby site.
 
 ```sh
 # change directory to my new site and run Gatsby develop command.
@@ -43,28 +48,21 @@ Your site should be running at `http://localhost:8000`
 GraphiQL tool should be running at `http://localhost:8000/___graphql`.
 Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
 
-## What's inside?
+**Gatsby Resources**
 
-- Bulma
-- Node sass
-- ESLint
-  - Ally
+- [Gatsby website](https://www.gatsbyjs.org/)
 
-## Learning Gatsby
+- [Gatsby in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/)
 
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/). Here are some places to start:
+- [Gatsby documentation](https://www.gatsbyjs.org/docs/)
 
-- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
+**Bulma Resources**
 
-- **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
+- [Bulma website](https://bulma.io/)
 
-## Learning Bulma
+- [Bulma Documentation](https://bulma.io/documentation/)
 
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://bulma.io/). Here are some places to start:
-
-- **Bulma Documentation [Everything you need to create a website with Bulma](https://bulma.io/documentation/).** Instead of creating mystyles.scss you can edit layout.scss in components folder.
-
-* **Customizing Bulma with node-sass [Step #6 is a good example of adding your own styles](https://bulma.io/documentation/customize/with-node-sass/).** Instead of creating mystyles.scss you can edit layout.scss in components folder.
+- [Customizing Bulma with node-sass. Step #6 is a good example of adding your own styles](https://bulma.io/documentation/customize/with-node-sass/).\*\* Instead of creating mystyles.scss just edit layout.scss in components folder.
 
 ## Deploy
 
