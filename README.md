@@ -46,23 +46,26 @@ gatsby develop
 Your site should be running at `http://localhost:8000`
 
 GraphiQL tool should be running at `http://localhost:8000/___graphql`.
-Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
 
-**Gatsby Resources**
+## Resources
+
+**Gatsby**
 
 - [Gatsby website](https://www.gatsbyjs.org/)
 
-- [Gatsby in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/)
+- [In-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/)
+
+- [Gatsby tutorial on GraphiQL](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
 
 - [Gatsby documentation](https://www.gatsbyjs.org/docs/)
 
-**Bulma Resources**
+**Bulma**
 
 - [Bulma website](https://bulma.io/)
 
 - [Bulma Documentation](https://bulma.io/documentation/)
 
-- [Customizing Bulma with node-sass. Step #6 is a good example of adding your own styles](https://bulma.io/documentation/customize/with-node-sass/).\*\* Instead of creating mystyles.scss just edit layout.scss in components folder.
+- [Customizing Bulma with node-sass. Step #6 is a good example of adding your own styles](https://bulma.io/documentation/customize/with-node-sass/). Instead of creating mystyles.scss just edit layout.scss in components folder.
 
 ## Deploy
 
